@@ -1,0 +1,19 @@
+@import 'src/common/style/tools';
+
+.Home {
+  display: flex;
+
+  @include b("Sidebar") {
+    @include sideBarWidth;
+  }
+
+  @include b("HotelList") {
+    margin-left: $g_Gut;
+
+    span {
+      font-size: $fz_Big;
+      color: $c_Grey;
+      text-transform: lowercase;
+    }
+  }
+}

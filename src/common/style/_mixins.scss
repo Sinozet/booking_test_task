@@ -1,0 +1,30 @@
+@import './_grid';
+
+@mixin shadowBase {
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3)
+}
+
+@mixin sideBarWidth {
+  width: $g_1 * 14;
+}
+
+@mixin position($val) {
+  left: $val;
+  right: $val;
+  top: $val;
+  bottom: $val;
+}
+
+@mixin childElementsFadeIn($maxElements: 10) {
+  & > li {
+    animation-name: fadeIn;
+    animation-fill-mode: both;
+    animation-duration: .3s;
+  }
+  
+  @for $i from 1 through $maxElements {
+    & > li:nth-of-type(#{$i}) {
+      animation-delay: #{0.2 + ($i)/30}s;
+    }
+  }
+}

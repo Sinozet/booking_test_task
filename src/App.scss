@@ -1,0 +1,41 @@
+@import 'src/common/style/reset';
+@import 'src/common/style/tools';
+
+* {
+  font-family: $ff_Ubuntu;
+  font-size: $fz_Small;
+  color: $c_Black;
+  line-height: $g_1;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+h1 {
+  font-size: $fz_Title;
+  margin: $g_Gut 0;
+}
+
+h2 {
+  font-size: $fz_Large;
+  color: $c_Grey;
+  margin: $g_Gut 0;
+}
+
+.App {
+  @include b('Content') {
+    max-width: 1024px;
+    padding: 0 $g_Gut;
+    margin: auto;
+  }
+
+  @include b('Header') {
+    border-bottom: 1px solid $c_GreyLight;
+    padding: $g_Gut 0;
+  }
+
+  @include b('Main') {
+    padding: $g_Gut 0;
+  }
+}

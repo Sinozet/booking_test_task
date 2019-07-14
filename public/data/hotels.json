@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Martinique New York on Broadway, Curio Collection by Hilton",
+    "city": "New York",
+    "stars": 4,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/180/180071428.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/180071428.webp?k=4df39feed13dbfb2f70f85b708620aef34277a0963291396f4758d60f1e017be&o=",
+    "description": "This Beaux-Arts hotel with a French Renaissance design has a restaurant/bar and enjoys a central Manhattan location."
+  },
+  {
+    "id": 2,
+    "name": "Hood River Hotel",
+    "city": "Hood River",
+    "stars": 3,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/139/139961123.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/139961123.jpg?k=7a22e0fe114bff6f3d1db0e326d00e5b6411f8677ff542e6813d7e832db79442&o=",
+    "description": "Offering a sauna and a ski pass sales point, Hood River Hotel is the oldest hotel in Hood River, Oregon. Guests can enjoy the on-site restaurant, Broder Øst, which serves Scandinavian cuisine."
+  },
+  {
+    "id": 3,
+    "name": "Antler Inn",
+    "city": "Jackson",
+    "stars": 2,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/718/71898131.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/71898131.webp?k=23477983b76d01ebfd5363f97482895491dc3fd73d714d27eb58592217bc3e3f&o=",
+    "description": "This hotel in Jackson Hole, Wyoming features a large hot tub, a gym and traditionally styled rooms with free Wi-Fi.Jackson Hole Mountain Resort is 20 minutes' drive from the inn."
+  },
+  {
+    "id": 4,
+    "name": "Los Lagos At Hot Springs Village",
+    "city": "Hot Springs Village",
+    "stars": 3,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/155/15543968.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/15543968.webp?k=80a7adaabb6f70386eca4f5a7a3122cae329ef1ea8bb7da486947c89dabfcb60&o=",
+    "description": "On the banks of Lake DeSoto in Hot Springs Village, this apartment property features accommodations with a kitchen and wired internet."
+  },
+  {
+    "id": 5,
+    "name": "Seaside Amelia Inn",
+    "city": "Amelia Island",
+    "stars": 3,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/105/105368843.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/105368843.webp?k=00854be7d92cbd2e5359c236879b94e3d0923e31c910fb7494001109425303b3&o=",
+    "description": "The Seaside Amelia Inn is a 46-room boutique hotel located directly on the beach in Amelia Island, Florida. Features in include a free hot breakfast, a rooftop sundeck, and outdoor pool."
+  },
+  {
+    "id": 6,
+    "name": "Cayucos Beach Inn",
+    "city": "Cayucos",
+    "stars": 2,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/351/35109076.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/35109076.webp?k=d7af007a6c9f9c83a75eb7c10d4e89282bfed93e83376756f46cee7371acb647&o=",
+    "description": "This California hotel is located one block from the Cayucos State Beach. The hotel has free Wi-Fi in the guest rooms, barbecue facilities and a picnic area."
+  },
+  {
+    "id": 7,
+    "name": "Days Inn by Wyndham Encinitas Moonlight Beach",
+    "city": "Encinitas",
+    "stars": 3,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/297/29748328.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/29748328.webp?k=ecd4b592b1bbd89a13cda3b225f97d9e7950de007463cd968459dd0b89c7ee1d&o=",
+    "description": "Conveniently located off Interstate 5, Days Inn by Wyndham Encinitas Moonlight Beach is 12 minutes’ drive from LEGOLAND California. All rooms include free WiFi. A daily free breakfast is provided."
+  },
+  {
+    "id": 8,
+    "name": "Sisters Inn and Suites",
+    "city": "Sisters",
+    "stars": 2,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/141/141754384.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/141754384.webp?k=f5a1062421d37fec301988e863fdffbe8d1bf3dc9cfc20876bea9c954ce28153&o=",
+    "description": "Sisters Inn and Suites is offering accommodations in Sisters. The property has a 24-hour front desk and free WiFi is available."
+  },
+  {
+    "id": 9,
+    "name": "St. George Inn and Suites",
+    "city": "St. George",
+    "stars": 2,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/181/181862550.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/181862550.webp?k=0cfc12e51684e06837493288e2dc72d3d15f1ad9b2b7657b8d82bcab531526b0&o=",
+    "description": "Just one mile from City of Saint George Golf Course, this Utah hotel offers an indoor and outdoor pool and hot tub. All guest rooms include free Wi-Fi and a continental breakfast. A gym is on site."
+  },
+  {
+    "id": 10,
+    "name": "Hampton Inn & Suites Jekyll Island",
+    "city": "Jekyll Island",
+    "stars": 3,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/143/143007680.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/143007680.webp?k=0ae4c03580195cbbef4f4041f7cde572b5cf33035cdbace32c7d5bcd9bdd77ba&o=",
+    "description": "Located on the beach of Jekyll Island less than 10 minutes from the Georgia Sea Turtle Center, this hotel features an outdoor pool and a free shuttle to area attractions."
+  },
+  {
+    "id": 11,
+    "name": "Hampton Inn & Suites Hood River",
+    "city": "Hood River",
+    "stars": 3,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/683/68395161.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/68395161.jpg?k=ff63879187983b3b04c77a45b5756e379ac48746388636bedf7839b2f9cbeb10&o=",
+    "description": "Providing free WiFi throughout the property, Hampton Inn & Suites Hood River is set in Hood River. Located near Mount Hood in the Columbia River Gorge, this 3-star hotel offers a 24-hour front desk and swimming pool. The rooms have a flat-screen TV with cable channels. Mt. Hood Meadows Ski Resort is 35 mi away."
+  },
+  {
+    "id": 12,
+    "name": "Mountain Modern Motel",
+    "city": "Jackson",
+    "stars": 3,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/101/101518702.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/101518702.webp?k=10ba99cc9393f9abd38005e1fb09d7d58d49056aee16a251468c2a232c6a7e9a&o=",
+    "description": "Located 5 minutes' walk from the Jackson Town Square, this hotel features free WiFi in all rooms. The hotel is within 3.1 mi from Grand Teton National Park and 12 mi Jackson Hole Mountain Resort."
+  },
+  {
+    "id": 13,
+    "name": "Red Lion Hotel and Conference Center St. George",
+    "city": "St. George",
+    "stars": 3,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/130/130828580.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/130828580.webp?k=305e0c4cec8aac1651332c5f94aaa0f59c440271bf3bf1631e9928191e31779b&o=",
+    "description": "Located in St. George, Utah, this hotel features an indoor/outdoor pool, a hot tub, a fitness center and a games room. Tuacahn Center For the Arts is 8.7 mi away. A free hot breakfast is offered..."
+  },
+  {
+    "id": 14,
+    "name": "Super 8 by Wyndham Jackson Hole",
+    "city": "Jackson",
+    "stars": 2,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/156/156631170.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/156631170.webp?k=19d357278d08d76c132dc9f75c936c94cf2877f223723659952d7dadbba75f22&o=",
+    "description": "This motel is 46 mi from Teton National Forest. It offers free WiFi and guest rooms include a microwave and a refrigerator. Free breakfast is offered each morning."
+  },
+  {
+    "id": 15,
+    "name": "Westminster Hotel",
+    "city": "Livingston",
+    "stars": 4,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/927/9271009.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/9271009.jpg?k=29de4a3d7f3bb22928adcfea561cb1e632d531e5b8f9d70adefda8abc189db58&o=",
+    "description": "Conveniently located just off Eisenhower Parkway on State Route 10 in Livingston, New Jersey, this hotel offers elegant guest rooms, an on-site restaurant and free Wi-Fi access throughout the hotel."
+  },
+  {
+    "id": 16,
+    "name": "Wyndham Garden Ann Arbor",
+    "city": "Ann Arbor",
+    "stars": 3,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/135/135281006.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/135281006.jpg?k=6adcba38a876607b0a7e0cbf59b9f87b322eac07f76bd7933ef4cc8c5eeced68&o=",
+    "description": "The Wyndham Garden Ann Arbor is just two miles from the University of Michigan and Michigan Stadium, home of the U of M football team."
+  },
+  {
+    "id": 17,
+    "name": "Ed & Rosie's Place",
+    "city": "Black Mountain",
+    "stars": 0,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/162/162175072.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/162175072.jpg?k=75ab4d3c914f48e6ce20a2fcf9a0da098809181c261aa1cd979c18b0b9b17abd&o=",
+    "description": "Ed & Rosie's Place provides accommodations in Black Mountain. The guesthouse has a terrace, a 24-hour front desk, and free WiFi is available."
+  },
+  {
+    "id": 18,
+    "name": "Columbia Gorge Inn",
+    "city": "Cascade Locks",
+    "stars": 3,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/137/137345720.jpg",
+    "photo_preview": "https://r-ak.bstatic.com/xdata/images/hotel/square200/137345720.jpg?k=18374293eec111eb7516ca3626d83e85adae024d780c816ab78f7930aba3c8c0&o=",
+    "description": "The Columbia Gorge Inn is located in the spectacular Columbia River Gorge National Scenic Area. The motel is just 45 miles east of Portland, Oregon."
+  },
+  {
+    "id": 19,
+    "name": "Rodeway Inn Encinitas North",
+    "city": "Encinitas",
+    "stars": 2,
+    "photo": "https://r-ak.bstatic.com/images/hotel/max1024x768/170/170440396.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/170440396.jpg?k=ccd474b7a9773a82e015b245f0d6179458dc7b33eb8e5b96d701e4ec4b9e0d70&o=",
+    "description": "Less than 15 minutes' walk from Beacon's Beach, Rodeway Inn Encinitas North offers guest rooms with free WiFi. Leucadia Farmers Market is 5 minutes' drive away."
+  },
+  {
+    "id": 20,
+    "name": "Elk Country Inn",
+    "city": "Jackson",
+    "stars": 3,
+    "photo": "https://q-ak.bstatic.com/images/hotel/max1024x768/497/49758833.jpg",
+    "photo_preview": "https://q-ak.bstatic.com/xdata/images/hotel/square200/49758833.jpg?k=16ca999f301090f5bf99631ae2b01b62eb6b466bf4bfa71711d349adc056a126&o=",
+    "description": "Only 4 blocks from Jackson Hole's central Town Square, and close to top-rated ski resorts. The Elk Country Inn is located in close proximity to many popular points of interest."
+  }
+]

@@ -1,0 +1,42 @@
+@import 'src/common/style/tools';
+
+.HotelPage {
+  display: flex;
+
+  @include b("Sidebar") {
+    @include sideBarWidth;
+  }
+
+  @include b("BackButton") {
+    display: inline-block;
+    font-size: $fz_Big;
+    padding: $g_Gut 0;
+  }
+
+  @include b("Card") {
+    margin-left: $g_Gut;
+  }
+
+  @include b("Photo") {
+    max-height: 400px;
+
+    img {
+      max-height: 400px;
+    }
+  }
+
+  @include b("City") {
+    margin: $g_Gut 0;
+    color: $c_Grey;
+  }
+
+  @include b("BookForm") {
+    display: flex;
+    align-items: flex-end;
+    margin: $g_Gut 0;
+  }
+
+  @include b('Description') {
+    max-width: 520px;
+  }
+}

@@ -1,0 +1,26 @@
+@import 'src/common/style/tools';
+
+.HomeHotelItem {
+  display: flex;
+  margin-bottom: $g_Gut;
+
+  @include b('Title') {
+    font-weight: bold;
+    font-size: $fz_Big;
+    margin-bottom: $g_0;
+  }
+
+  @include b('City') {
+    margin-bottom: $g_0;
+    color: $c_BlackLight;
+  }
+
+  @include b('Photo') {
+    height: $g_1 * 8;
+    width: $g_1 * 8;
+  }
+
+  @include b('Info') {
+    margin-left: $g_Gut;
+  }
+}

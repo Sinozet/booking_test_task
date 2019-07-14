@@ -1,0 +1,14 @@
+@import 'src/common/style/tools';
+
+.Ads {
+  display: inline-block;
+  width: 100%;
+  background-color: $c_BlackLight;
+  color: $c_White !important;
+  text-align: center;
+  padding: $g_Gut;
+  margin: $g_Gut 0;
+  font-size: 34px;
+  line-height: 48px;
+  text-transform: uppercase;
+}

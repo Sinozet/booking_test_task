@@ -1,0 +1,14 @@
+@import '../style/tools.scss';
+
+.Stars {
+  display: inline-block;
+  height: $g_1;
+  background: url('/img/star.png');
+  background-size: contain;
+
+  @include m("1") { width: $g_1 }
+  @include m("2") { width: $g_1 * 2; }
+  @include m("3") { width: $g_1 * 3; }
+  @include m("4") { width: $g_1 * 4; }
+  @include m("5") { width: $g_1 * 5; }
+}

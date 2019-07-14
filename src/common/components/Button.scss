@@ -1,0 +1,16 @@
+@import 'src/common/style/tools';
+
+.Button {
+  display: inline-block;
+  height: $g_2;
+  line-height: $g_2;
+  text-transform: uppercase;
+  background-color: $c_BlackLight;
+  color: $c_White !important;
+  padding: 0 $g_Gut;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $c_Black;
+  }
+}

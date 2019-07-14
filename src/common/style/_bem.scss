@@ -1,0 +1,15 @@
+$bemElementSplitter: '__';
+$bemModifierSplitter: '_';
+$bemDoubleDashSplitter: '--';
+
+@mixin b($element) {
+  &#{$bemElementSplitter}#{$element} {
+    @content;
+  }
+}
+
+@mixin m($modifier) {
+  &#{$bemModifierSplitter}#{$modifier} {
+    @content;
+  }
+}

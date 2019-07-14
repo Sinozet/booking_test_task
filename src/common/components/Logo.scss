@@ -1,0 +1,13 @@
+@import '../style/tools.scss';
+
+.Logo {
+  font-size: $fz_Title;
+
+  @include b('Booking') {
+    color: $c_Black;
+  }
+
+  @include b('Search') {
+    color: $c_Grey
+  }
+}

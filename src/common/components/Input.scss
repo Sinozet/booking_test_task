@@ -1,0 +1,22 @@
+@import '../style/tools.scss';
+
+.Input {
+  margin-right: $g_Gut;
+
+  @include b('Caption') {
+    display: block;
+    font-size: $fz_Tiny;
+    color: $c_BlackLight;
+  }
+
+  @include b('Control') {
+    height: $g_2;
+    line-height: $g_2;
+    padding: 0 $g_0;
+    border: 1px solid $c_BlackLight;
+
+    &::placeholder {
+      color: $c_GreyLight;
+    }
+  }
+}
